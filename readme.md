@@ -8,7 +8,7 @@ spaces are better than tabs
 * Discord Moderation Logging Bot
 * Java CSV reader using apache commons
 * C++ basics
-* ~~ PHP ~~
+* ~~PHP~~
 * Regex
 * Python Webscraping for fun
 
