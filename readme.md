@@ -13,4 +13,4 @@ spaces are better than tabs
 * Python Webscraping for fun
 
 ### stats:
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmehta&count_private=true)
