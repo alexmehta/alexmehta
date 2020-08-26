@@ -12,5 +12,5 @@ spaces are better than tabs
 * Regex
 * Python Webscraping for fun
 
-### rick roll:
-![get rickrolled](https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif)
+### stats:
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
