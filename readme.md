@@ -6,7 +6,7 @@ spaces are better than tabs
 ## working on:
 
 * Discord Moderation Logging Bot
-* Java CSV reader using apache commons
+* ~~Java CSV reader using apache commons
 * C++ basics
 * ~~PHP~~
 * Regex
