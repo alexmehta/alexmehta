@@ -5,12 +5,12 @@ spaces are better than tabs
 
 ## working on:
 
-* Discord Moderation Logging Bot
+* ~~Discord Moderation Logging Bot~~
 * ~~Java CSV reader using apache commons~~
-* C++ basics
+* ~~C++ basics~~
 * ~~PHP~~
 * Regex
-* Python Webscraping for fun
+* ~~Python Webscraping~~
 
 ### stats:
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmehta&count_private=true)
