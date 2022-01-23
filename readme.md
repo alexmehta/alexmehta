@@ -6,4 +6,4 @@
 
 
 ### Connect with me:
-[linkedin]: https://www.linkedin.com/in/alexander-mehta-b97659220/
+[Linkedin](https://www.linkedin.com/in/alexander-mehta-b97659220/)
