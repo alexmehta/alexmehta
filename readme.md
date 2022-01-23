@@ -4,18 +4,8 @@
 ## I'm a student interested in Full Stack Dev, C++ Microsystems, and DSA 
 
 
-### Connect with me:
-
-<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/alexandermehta/" />[Instagram]
-<img align="left" alt="Linkedin" width="22px" src="https://www.linkedin.com/in/alexander-mehta-b97659220/" />[linkedin]
-
-<br />
-
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
-
 </details>
 
 <details>
@@ -25,4 +15,6 @@
 
 </details>
 
+
+### Connect with me:
 [linkedin]: https://www.linkedin.com/in/alexander-mehta-b97659220/
