@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/alexandermehta/" />][Instagram]
-[<img align="left" alt="Linkedin" width="22px" src="https://www.linkedin.com/in/alexander-mehta-b97659220/" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/alexandermehta/" />][Instagram]]
+[<img align="left" alt="Linkedin" width="22px" src="https://www.linkedin.com/in/alexander-mehta-b97659220/" />][linkedin]]
 
 <br />
 
