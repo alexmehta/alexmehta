@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex  
 
 
-## I'm a student interested in Full Stack Dev, C++ Microsystems, and DSA 
+## I'm a student interested in Full Stack Dev
 
 
 
