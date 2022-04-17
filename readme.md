@@ -8,7 +8,7 @@ I am currently interested in:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmehta&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmehta)
 
 
 ### Connect with me:
