@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex  
 
-I am currently interested in:
+I am currently a high school student interested in:
 - Information Technology (Hosting, Containerization, Cybersecurity)
 - Backend Dev (Spring Boot)
 - Data Science 
