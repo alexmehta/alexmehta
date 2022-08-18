@@ -10,3 +10,5 @@ I am currently a high school student interested in:
 [Linkedin](https://www.linkedin.com/in/alexander-mehta-b97659220/)
 
 
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmehta)](https://github.com/anuraghazra/github-readme-stats)
